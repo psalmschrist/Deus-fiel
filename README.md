@@ -1,6 +1,4 @@
-Claro! Aqui está um modelo de README para o seu script "Jogo do Jardineiro – Reflorestamento Interativo com Acessibilidade", com informações sobre o funcionamento e detalhes importantes.
 
----
 
 # Jogo do Jardineiro – Reflorestamento Interativo com Acessibilidade
 
